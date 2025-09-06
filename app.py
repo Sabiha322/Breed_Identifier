@@ -3,7 +3,7 @@ import requests
 
 # Page setup
 st.set_page_config(page_title="Breed Identifier", layout="centered")
-st.title("🐄 Cattle Breed Confirmation System")
+st.title("Cattle Breed Confirmation System")
 st.write("""
 Upload an image of the cattle and our system will process it using advanced image recognition algorithms to confirm its breed and provide health insights.
 """)
